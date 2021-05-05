@@ -1,0 +1,13 @@
+.post_item {
+    color: ghostwhite;
+}
+
+.post_item img {
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+}
+
+.post_item span {
+    color: greenyellow;
+}
