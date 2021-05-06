@@ -3,6 +3,10 @@
     background-color: burlywood;
 }
 
-.navbar_item {
+.navbar_item a {
     color: azure;
+}
+
+.navbar_item a.activeLink {
+    color: blue;
 }
